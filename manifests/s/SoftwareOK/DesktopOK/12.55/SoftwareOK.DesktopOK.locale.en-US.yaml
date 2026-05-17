@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: SoftwareOK.DesktopOK
-PackageVersion: "12.51"
+PackageVersion: "12.55"
 PackageLocale: en-US
 Publisher: SoftwareOK
 PublisherUrl: https://www.softwareok.com/
@@ -19,8 +19,8 @@ Description: DesktopOK is a small but effective solution for user that have to c
 Tags:
 - desktop
 ReleaseNotes: |-
-  - Important corrections in the DesktopOK Windows Tools
-  - Update of language files in DesktopOK
+  - Important update to the DesktopOK language files
+  - Minor fixes and compilation due to a positive false virus warning on some Windows 11 operating systems, even though no virus was present!
 ReleaseNotesUrl: https://www.softwareok.com/?seite=Freeware/DesktopOK/History
 Documentations:
 - DocumentLabel: Manual
